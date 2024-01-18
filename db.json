@@ -1,10 +1,11 @@
 {
-  "produtos": [
+  "series": [
     {
       "id": 1,
-      "nome": "sapatoBacana",
-      "preco": "typicode",
-      "imagem": "sapado.jpg"
+      "nome": "Game of Thrones",
+      "temporadas": 8,
+      "produtora": "HBO",
+      "anoLacamento": 2012
     }
   ]
 }
